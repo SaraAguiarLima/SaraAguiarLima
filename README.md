@@ -1,15 +1,25 @@
-## Olá ! Sou a Sara 👋🏾
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Olá👋🏾!+Eu+sou+a+Sara+Aguiar+de+Lima😃;Estou+Iniciando+meus+Estudos📚+de+Tecnologias;🤗Seja+Bem+-+Vindo!+:%29)](https://git.io/typing-svg)
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]()
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SaraAguiarLima&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+### Minhas redes sociais
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sara.aguiar.10236)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Sara_A_Lima)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]()
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mensageira09?t=v5xdsvcDKKKZm8ibAbn4oA&s=09)
 
-![Sara's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaraAguiarLima&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaraAguiarLima&layout=compact)
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SaraAguiarLima&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Sara Aguiar de Lima github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaraAguiarLima&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+</div>
 
-### Tecnologias que estou aprendendo.
+
+
+
+### Estou estudando :
 
 <div style="display;inline_block">
   <img  align="center"alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -18,36 +28,8 @@
   <img  align="center" alt="Node.ds" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"
 </div><br>
 
-### Apenas iniciei minha jornada neste universo da *Tecnologia* 🤖 e estou amando 😍
-
-name: Generate Datas
-
-on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    name: Jobs to update datas
-    runs-on: ubuntu-latest
-    steps:
-      # Snake Animation
-      - uses: Platane/snk@master
-        id: snake-gif
-        with:
-          github_user_name: rafaballerini
-          svg_out_path: dist/github-contribution-grid-snake.svg
-
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  
 
 
 
 
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
