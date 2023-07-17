@@ -9,9 +9,10 @@
 
 ### *Minhas redes sociais* :
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white target="_blank")](https://www.facebook.com/sara.aguiar.10236)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white )](https://www.facebook.com/sara.aguiar.10236)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Sara_A_Lima)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mensageira09?t=v5xdsvcDKKKZm8ibAbn4oA&s=09)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://saraguia09@gmail.com)
 
 ### *Estou estudando* :
 
